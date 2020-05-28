@@ -1,0 +1,4 @@
+{"APP_NAME":"application name",
+ "CLIENT_ID":"api client id",
+ "API_KEY":"api key (set up at https://www.yelp.com/developers)"
+}
