@@ -2,6 +2,7 @@
 """
 query business types for covid map overlay - washington state
 """
+import sys
 import json
 import requests
 
@@ -62,5 +63,6 @@ if __name__ == '__main__':
 			print ('resetting offset at {}'.format(offset))
 			
 		else:		
-			print(req.raise_for_status())
+			print('ERROR  '.format(req.raise_for_status()))
+			sys.exit()
 	output_results(results_list)
