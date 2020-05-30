@@ -1,0 +1,12 @@
+city	total_restaurants
+Auburn	1200
+Bainbridge Island	2600
+Bellevue	4100
+Bothell	2300
+Darrington	2200
+Kent	1600
+Kirkland	4200
+Medina	2400
+Mukilteo	1100
+Puyallup	1400
+
